@@ -76,15 +76,3 @@ Building a high-impact portfolio of **embedded system test environments** and **
 ![ASPICE](https://img.shields.io/badge/ASPICE-Automotive%20SPICE-blue?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiRajan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ManiRajan1&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiRajan1&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
