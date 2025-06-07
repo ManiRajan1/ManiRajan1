@@ -19,7 +19,7 @@ Building a high-impact portfolio of **embedded system test environments** and **
 - Operations for edge devices in **safety-critical environments**
 
 🤝 **Looking to Collaborate On:**  
-- Embedded system testing  
+- Embedded system and software testing  
 - Automated verification pipelines  
 - HIL/SIL infrastructure  
 - Functional safety (ISO 26262, ASPICE)
@@ -39,14 +39,12 @@ Building a high-impact portfolio of **embedded system test environments** and **
 
 📫 **Contact:**  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnan.manirajan@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manirajan1/)
 
 ---
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manirajan1)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalakrishnan.manirajan@gmail.com)
 
 ---
 
