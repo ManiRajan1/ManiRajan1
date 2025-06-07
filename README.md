@@ -70,7 +70,6 @@ Building a high-impact portfolio of **embedded system test environments** and **
 #### **Protocols & Interfaces**
 ![CAN](https://img.shields.io/badge/CAN-Bus-yellow?style=for-the-badge)
 ![FlexRay](https://img.shields.io/badge/FlexRay-Communication-blue?style=for-the-badge)
-![UDS](https://img.shields.io/badge/UDS-%20ISO%2014298-4-blueviolet?style=for-the-badge)
 ![XCP](https://img.shields.io/badge/XCP-Protocol-informational?style=for-the-badge)
 ![Automotive Ethernet](https://img.shields.io/badge/Automotive%20Ethernet-Networking-9cf?style=for-the-badge)
 
