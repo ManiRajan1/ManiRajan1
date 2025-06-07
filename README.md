@@ -1,6 +1,6 @@
 # 👨‍💻 Manirajan Gopalakrishnan
 
-### 🔧 Embedded Systems | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD Integration
+### 🔧 Embedded Systems | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD Integration & DevOps for Embedded Systems
 
 ---
 
@@ -86,11 +86,5 @@ Building a high-impact portfolio of **embedded system test environments** and **
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiRajan1&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=ManiRajan1&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
