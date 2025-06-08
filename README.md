@@ -76,3 +76,6 @@ Building a high-impact portfolio of **embedded system test environments** and **
 ![ASPICE](https://img.shields.io/badge/ASPICE-Automotive%20SPICE-blue?style=for-the-badge)
 
 ---
+
+## 📜 **Certifications**
+[![ISTQB Certifications](https://img.shields.io/badge/ISTQB)](./Certificates/ISTQB/)
