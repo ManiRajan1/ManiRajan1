@@ -78,4 +78,4 @@ Building a high-impact portfolio of **embedded system test environments** and **
 ---
 
 ## 📜 **Certifications**
-[![ISTQB Certifications](https://img.shields.io/badge/ISTQB)](./Certificates/ISTQB/)
+[ISTQB Certifications](./Certificates/ISTQB/)
