@@ -24,7 +24,7 @@ Developing impactful **embedded system test environments** and **automation solu
 - Functional safety (ISO 26262, ASPICE)
 
 🧠 **Research Areas:**  
-- AI-driven **requirement traceability**  
+- AI-driven **requirement traceability** and compliance measures
 - **Test data generation**  
 - Model-based testing for embedded systems  
 
