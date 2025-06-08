@@ -1,40 +1,39 @@
 # 👨‍💻 Manirajan Gopalakrishnan
-
-### 🔧 Embedded Systems | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD Integration & DevOps for Embedded Systems
+### 🔧 Embedded Systems | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD & DevOps for Embedded Systems
 
 ---
 
 ## 💫 About Me
 
-🔭 **Currently Working On:**  
-Building a high-impact portfolio of **embedded system test environments** and **automation tools**, with a focus on:
+🔭 **Current Focus:**  
+Developing impactful **embedded system test environments** and **automation solutions**, specializing in:
 
-- 🚗 **Automotive** & 🛫 **Aerospace** domains  
+- 🚗 **Automotive** & 🛫 **Aerospace** sectors  
 - 🧪 Verification workflows & CI/CD integration  
-- ✅ Functional safety compliance  
+- ✅ Functional safety standards  
 
-🌱 **Currently Learning:**  
-- Infrastucture as Code for Embedded Build & Test workflows  
-- Best practices followed in Embedded system DevOps. 
-- Operations for edge devices in **safety-critical environments**
+🌱 **Learning Interests:**  
+- Infrastructure as Code for embedded build/test pipelines  
+- DevOps best practices in embedded systems  
+- Edge device operations in **safety-critical contexts**
 
-🤝 **Looking to Collaborate On:**  
-- Embedded system and software testing  
+🤝 **Open to Collaboration On:**  
+- Embedded software and system testing  
 - Automated verification pipelines  
 - HIL/SIL infrastructure  
 - Functional safety (ISO 26262, ASPICE)
 
-🧠 **Research Interests:**  
-- AI tools for **requirement traceability**  
+🧠 **Research Areas:**  
+- AI-driven **requirement traceability**  
 - **Test data generation**  
-- Model-based testing in embedded domains  
+- Model-based testing for embedded systems  
 
-💬 **Ask Me About:**  
-- Verification & Validation of Embedded Systems  
-- ASPICE & ISO 26262 Practices  
-- HIL Testing, RestBus Simulation  
+💬 **Feel Free to Ask About:**  
+- Embedded system verification & validation  
+- ASPICE & ISO 26262 compliance  
+- HIL testing, RestBus simulation  
 - CAN, FlexRay, Automotive Ethernet  
-- CI/CD Integration with SDLC  
+- CI/CD in SDLC  
 - Tools: CANoe, CANape, Lauterbach, Renode  
 
 📫 **Contact:**  
@@ -79,3 +78,8 @@ Building a high-impact portfolio of **embedded system test environments** and **
 
 ## 📜 **Certifications**
 [ISTQB Certifications](./Certificates/ISTQB/)
+
+---
+
+## ⚙️ **Projects**
+I am currently compiling a curated list of projects, tasks and implementation inspired by real-world challenges in my daily work. Explore more ▶ [Project Repositories](https://github.com/ManiRajan1/Project_repositories/blob/main/README.md)
