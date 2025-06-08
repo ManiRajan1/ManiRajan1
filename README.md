@@ -14,8 +14,8 @@ Building a high-impact portfolio of **embedded system test environments** and **
 - ✅ Functional safety compliance  
 
 🌱 **Currently Learning:**  
-- GitHub Actions for Embedded Build & Test workflows  
-- Embedded DevOps practices  
+- Infrastucture as Code for Embedded Build & Test workflows  
+- Best practices followed in Embedded system DevOps. 
 - Operations for edge devices in **safety-critical environments**
 
 🤝 **Looking to Collaborate On:**  
