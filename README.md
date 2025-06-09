@@ -1,5 +1,5 @@
 # 👨‍💻 Manirajan Gopalakrishnan
-### 🔧 Embedded Systems | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD & DevOps for Embedded Systems
+### 🔧 Embedded Systems V&V | 🧪 Test Automation | 🚗 Functional Safety | 🌐 CI/CD & DevOps for Embedded Systems
 
 ---
 
