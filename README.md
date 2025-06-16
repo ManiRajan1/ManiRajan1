@@ -35,6 +35,22 @@ Designing and scaling **test infrastructure** for embedded systems in **automoti
 💬 **Ask Me About:**
 CANoe, CANalyzer, Lauterbach, CAN/CAN-FD, FlexRay, ECU Flashing, SIL Testing, Robot Framework, Grafana+PostgreSQL for test KPIs, and Embedded CI/CD.
 
+---
+
+## 🚧 Projects
+
+I maintain a unified GitHub repository with project branches organized by domain. Each project emphasizes **real-world embedded system V&V challenges**, CI/CD automation, and modern traceability approaches.
+
+🔗 **Explore Projects:**  
+▶ [GitHub Project Repository](https://github.com/ManiRajan1/Project_repositories/blob/main/README.md)
+
+---
+
+## 📜 **Certifications**
+[ISTQB Certifications](./Certificates/ISTQB/)
+
+---
+
 📫 **Contact:**  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnan.manirajan@gmail.com)
 
@@ -75,21 +91,6 @@ CANoe, CANalyzer, Lauterbach, CAN/CAN-FD, FlexRay, ECU Flashing, SIL Testing, Ro
 ![ISO 26262](https://img.shields.io/badge/ISO%2026262-Functional%20Safety-critical?style=for-the-badge&color=red)
 ![ASPICE](https://img.shields.io/badge/ASPICE-Automotive%20SPICE-blue?style=for-the-badge)
 ![DO-178B](https://img.shields.io/badge/DO--178B-Avionics-lightgrey?style=for-the-badge)
-
----
-
-## 📜 **Certifications**
-[ISTQB Certifications](./Certificates/ISTQB/)
-
-
----
-
-## 🚧 Projects
-
-I maintain a unified GitHub repository with project branches organized by domain. Each project emphasizes **real-world embedded system V&V challenges**, CI/CD automation, and modern traceability approaches.
-
-🔗 **Explore Projects:**  
-▶ [GitHub Project Repository](https://github.com/ManiRajan1/Project_repositories/blob/main/README.md)
 
 ---
 
