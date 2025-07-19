@@ -49,10 +49,6 @@ I maintain a unified GitHub repository with project branches organized by domain
 ## 📜 **Certifications**
 [ISTQB Certifications](./Certificates/ISTQB/)
 
----
-
-📫 **Contact:**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnan.manirajan@gmail.com)
 
 ---
 
