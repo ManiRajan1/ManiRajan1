@@ -90,5 +90,5 @@ I maintain a unified GitHub repository with project branches organized by domain
 
 ---
 
-> 💬 *Let’s connect if you're building embedded pipelines, edge test automation, or compliance workflows. Open to contract, freelance, or full-time opportunities.*
+> 💬 *Let’s connect if you're building embedded pipelines, edge test automation, or compliance workflows.*
 
