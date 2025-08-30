@@ -35,11 +35,6 @@ I maintain a unified GitHub repository with project branches organized by domain
 🔗 **Explore Projects:**  
 ▶ [GitHub Project Repository](https://github.com/ManiRajan1/Project_repositories/blob/main/README.md)
 
----
-
-## 📜 **Certifications**
-[ISTQB Certifications](./Certificates/ISTQB/)
-
 
 ---
 
