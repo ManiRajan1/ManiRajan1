@@ -21,19 +21,10 @@ Designing and scaling **test infrastructure** for embedded systems in **automoti
 - GitHub Actions & GitLab Runners for Yocto CI
 - Lightweight ML Models for V&V (Anomaly Detection, Test Prioritization)
 
-🤝 **Open to Collaboration On:**
-- Test Automation Frameworks & Infrastructure
-- HIL Simulation & Signal Fault Injection
-- ASPICE/ISO 26262 Verification Planning & Execution
-- Cloud-based Test Orchestration for Embedded Systems
-
 🧠 **Research Interests:**
 - AI/ML-driven Requirement Traceability
 - Edge Ops for Safety-Critical Applications
 - Auto-generated Test Vectors & Coverage Analytics
-
-💬 **Ask Me About:**
-CANoe, CANalyzer, Lauterbach, CAN/CAN-FD, FlexRay, ECU Flashing, SIL Testing, Robot Framework, Grafana+PostgreSQL for test KPIs, and Embedded CI/CD.
 
 ---
 
