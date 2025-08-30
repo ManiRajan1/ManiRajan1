@@ -1,4 +1,4 @@
-# 👨‍💻 Manirajan Gopalakrishnan
+# 👨‍💻 Manirajan G
 
 ### 🔧 Embedded Systems V&V | 🧪 Test Automation Architect | 🚗 Functional Safety (ISO 26262, ASPICE) | ⚙️ CI/CD DevOps | 🤖 Embedded AI/ML (Learning)
 
