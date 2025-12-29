@@ -1,6 +1,6 @@
 # 👨‍💻 Manirajan G.
 
-### 🔧 Embedded Systems V&V | 🧪 Test Automation Architect | 🚗 Functional Safety (ISO 26262, ASPICE) | ⚙️ CI/CD DevOps | 🤖 Embedded AI/ML (Learning)
+### 🔧 Embedded Systems V&V | 🧪 Test Automation Architect | 🚗 Functional Safety (ISO 26262, ASPICE) | ⚙️ CI/CD DevOps | 🤖 Infrastructure, Edge Computing and Embedded AI/ML
 
 ---
 
@@ -17,8 +17,8 @@ Designing and scaling **test infrastructure** for embedded systems in **automoti
 - Traceability with Jira Xray, DOORS, and GitHub
 
 🚀 **Current Transition Goals:**
-- Infrastructure as Code (IaC) for Embedded DevOps
-- GitHub Actions & GitLab Runners for Yocto CI
+- Infrastructure as Code (IaC) for Simulation Frameworks
+- GitHub Actions & GitLab Runners for CI
 - Lightweight ML Models for V&V (Anomaly Detection, Test Prioritization)
 
 🧠 **Research Interests:**
@@ -27,7 +27,6 @@ Designing and scaling **test infrastructure** for embedded systems in **automoti
 - Auto-generated Test Vectors & Coverage Analytics
 
 ---
-
 ## 🚧 Projects
 
 I maintain a unified GitHub repository with project branches organized by domain. Each project emphasizes **real-world embedded system V&V challenges**, CI/CD automation, and modern traceability approaches.
@@ -35,20 +34,18 @@ I maintain a unified GitHub repository with project branches organized by domain
 🔗 **Explore Projects:**  
 ▶ [GitHub Project Repository](https://github.com/ManiRajan1/Project_repositories/blob/main/README.md)
 
-
 ---
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manirajan1)  
 
 ---
-
 ## 💻 Tech Stack
 
 #### 🧠 **Languages & Build Systems**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white")
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto%20Project-000000.svg?style=for-the-badge&logo=yocto&logoColor=white)
@@ -69,10 +66,12 @@ I maintain a unified GitHub repository with project branches organized by domain
 ![XCP](https://img.shields.io/badge/XCP-Protocol-informational?style=for-the-badge)
 ![Automotive Ethernet](https://img.shields.io/badge/Automotive%20Ethernet-Networking-9cf?style=for-the-badge)
 
+
 #### ✅ **Safety & Process Standards**
-![ISO 26262](https://img.shields.io/badge/ISO%2026262-Functional%20Safety-critical?style=for-the-badge&color=red)
+![ISO 26262](https://img.shields.io/badge/ISO%2026262-Automotive%20Functional%20Safety-critical?style=for-the-badge&color=red)
 ![ASPICE](https://img.shields.io/badge/ASPICE-Automotive%20SPICE-blue?style=for-the-badge)
 ![DO-178B](https://img.shields.io/badge/DO--178B-Avionics-lightgrey?style=for-the-badge)
+![IEC-61508](https://img.shields.io/badge/IEC--61508-Functional%20Safety-blue?style=for-the-badge)
 
 ---
 
